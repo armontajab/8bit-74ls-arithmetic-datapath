@@ -1,0 +1,41 @@
+# build output
+Debug/
+Release/
+build/
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.d
+*.su
+
+# IDE scratch
+.settings/
+.metadata/
+*.launch
+
+# MATLAB
+*.asv
+*.autosave
+slprj/
+
+# Altium / Proteus scratch
+History/
+Project Logs*/
+Project Backups/
+__Previews/
+*.PcbDoc.bak
+*.SchDoc.bak
+*.DBK
+*.PWI
+*.workspace
+
+# archives
+*.rar
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
